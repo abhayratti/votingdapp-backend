@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Voting Dapp Backend
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Showcases the Solidity backend smart-contract used to build the Voting Dapp. 
+Check out front-end repo for more info + links!
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://securevotedapp.vercel.app/
